@@ -1,2 +1,10 @@
 com\example\demo\DemoApplication.class
+com\example\demo\controllers\CaseController.class
+com\example\demo\DAO\CasesRepository.class
+com\example\demo\models\Case.class
+MavenWrapperDownloader$1.class
 com\example\demo\models\Container.class
+com\example\demo\models\ReaderToCSV.class
+com\example\demo\models\WriterToCSV.class
+MavenWrapperDownloader.class
+com\example\demo\service\CaseService.class

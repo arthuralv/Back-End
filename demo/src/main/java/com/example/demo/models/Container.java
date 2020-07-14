@@ -13,7 +13,8 @@ public class Container {
 		    
 		    while ((bytesRead = in.read(dataBuffer, 0, 1024)) != -1) {
 		        fileOutputStream.write(dataBuffer, 0, bytesRead);
-		    }
+			}
+			
 		} catch (IOException e) {
 		    e.printStackTrace();
         }
